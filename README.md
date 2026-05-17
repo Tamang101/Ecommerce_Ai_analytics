@@ -20,7 +20,7 @@ The project combines:
 
 ## Architecture
 
-![Project Architecture](dashboard/powerbi_screenshots/architecture.png)
+Project Architecture
 
 ```text
 DummyJSON API
